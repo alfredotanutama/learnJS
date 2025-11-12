@@ -1,6 +1,8 @@
 const person = {
     nama:'Zale',
     age:25,
-    bornYear:1999,
-    hasJob:true
+    yearOfBirth:1999,
+    isEmployed:true
 }
+
+console.log(person.nama + " lahir pada tahun " + person.yearOfBirth);
