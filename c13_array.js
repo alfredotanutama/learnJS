@@ -10,3 +10,7 @@ if (isTaken){
 }else{
     console.log("Username tersedia")
 }
+
+console.log(usernames[0]);
+console.log(usernames[1]);
+console.log(usernames[2]);
