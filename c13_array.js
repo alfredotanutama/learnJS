@@ -1,11 +1,11 @@
 const usernames = ['yandy','dimas','mita'];
 // console.log("Ada total "+ usernames.length+ " username.");
 
-const newUserName = 'yandy';
+const newUserName = 'edo';
 
-const isUserNameAvailable = usernames.includes(newUserName);
+const isTaken = usernames.includes(newUserName);
 
-if (isUserNameAvailable){
+if (isTaken){
     console.log("Username sudah digunakan")
 }else{
     console.log("Username tersedia")
