@@ -36,10 +36,16 @@ if __name__ == "__main__":
     directory = r"C:\Users\Alfredo\Documents\Mangas\Fullmetal Alchemist"
     title = "Fullmetal Alchemist"
     volume_chapters = {
-    4: "13-16",
-    5: "17-21",
-    6: "22-25"
-    # 6: "22-25"
+    7: "26-29",
+    8: "30-33",
+    9: "34-37",
+    10: "38-41",
+    11: "42-45",
+    12: "46-49",
+    13: "50-53",
+    14: "54-57",
+    15: "58-61",
+    16: "62-65"
         # Add more volumes as needed
     }
 
