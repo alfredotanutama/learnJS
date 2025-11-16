@@ -8,3 +8,4 @@ alfredotanutama@192 .vscode % git fetch origin main
 From https://github.com/alfredotanutama/learnJS
  * branch            main       -> FETCH_HEAD
 alfredotanutama@192 .vscode % git rebase origin/main
+git push origin main
